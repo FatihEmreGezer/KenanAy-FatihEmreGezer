@@ -1,27 +1,31 @@
-# Web Tasarımı ve Programlama Dersi Projesi
+# Web Tasarımı ve Programlama Dersi Projeleri
 
-Bu proje, Web Tasarımı ve Programlama dersi kapsamında Next.js, React ve Tailwind CSS kullanılarak geliştirilmiş bir web uygulamasıdır.
+Bu depo, Web Tasarımı ve Programlama dersi kapsamında **Kenan Ay** ve **Fatih Emre Gezer** tarafından geliştirilen dönem projelerini içermektedir.
 
-## 👥 Geliştiriciler
-- **Kenan Ay**
-- **Fatih Emre Gezer**
+Her öğrencinin projesi bağımsız olarak kendi klasöründe yer almaktadır.
 
-## 🛠️ Kullanılan Teknolojiler
-- **Next.js 16** (App Router mimarisi)
-- **React 19**
-- **Tailwind CSS v4**
-- **TypeScript**
+---
 
-## 🚀 Projeyi Yerel Ortamda Çalıştırma
+## 📂 Proje Dizinleri
 
-1. Bağımlılıkları yükleyin:
-```bash
-npm install
-```
+### 1. 📁 [kenan-projesi/](./kenan-projesi)
+- **Geliştirici:** Kenan Ay
+- **Teknolojiler:** Next.js 16 (App Router), React 19, Tailwind CSS v4, TypeScript
+- **Açıklama:** Kenan'ın web programlama dersi için hazırladığı sayfa düzeni, interaktif görev listesi ve bileşen yapısını içeren web uygulaması.
+- **Çalıştırma:**
+  ```bash
+  cd kenan-projesi
+  npm install
+  npm run dev
+  ```
+  Tarayıcıda: `http://localhost:3000`
 
-2. Geliştirme sunucusunu başlatın:
-```bash
-npm run dev
-```
+---
 
-3. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine gidin.
+### 2. 📁 [fatih-projesi/](./fatih-projesi)
+- **Geliştirici:** Fatih Emre Gezer
+- **Açıklama:** Fatih'in dönem ders projesi bu klasör altında yer alacaktır.
+
+---
+
+© 2026 Kenan Ay & Fatih Emre Gezer
