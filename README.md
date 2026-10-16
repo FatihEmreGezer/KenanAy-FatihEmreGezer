@@ -28,7 +28,12 @@ Her öğrencinin projesi bağımsız olarak kendi klasöründe yer almaktadır.
 
 ### 2. 📁 [fatih-projesi/](./fatih-projesi)
 - **Geliştirici:** [Fatih Emre Gezer (@FatihEmreGezer)](https://github.com/FatihEmreGezer)
-- **Açıklama:** Fatih'in dönem ders projesi bu klasör altında yer alacaktır.
+- **Açıklama:** Fatih'in web programlama dersi için hazırladığı Next.js ve Tailwind CSS tabanlı web uygulaması.
+- **Çalıştırma:**
+  ```bash
+  Tarayıcıda: `http://localhost:3000`
+  ```
 
+---
 
 © 2026 [Kenan Ay](https://github.com/kenanayy) & [Fatih Emre Gezer](https://github.com/FatihEmreGezer)
