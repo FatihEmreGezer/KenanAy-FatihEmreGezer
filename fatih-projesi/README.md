@@ -2,5 +2,5 @@
 
 
 ## 👤 Geliştirici
-- **Fatih Emre Gezer**
+- **Fatih Emre Gezer** — GitHub: [@FatihEmreGezer](https://github.com/FatihEmreGezer)
 
