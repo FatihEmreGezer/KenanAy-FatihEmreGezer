@@ -19,14 +19,9 @@ Her öğrencinin projesi bağımsız olarak kendi klasöründe yer almaktadır.
 
 ### 1. 📁 [kenan-projesi/](./kenan-projesi)
 - **Geliştirici:** [Kenan Ay (@kenanayy)](https://github.com/kenanayy)
-- **Teknolojiler:** Next.js 16 (App Router), React 19, Tailwind CSS v4, TypeScript
 - **Açıklama:** Kenan'ın web programlama dersi için hazırladığı sayfa düzeni, interaktif görev listesi ve bileşen yapısını içeren web uygulaması.
 - **Çalıştırma:**
   ```bash
-  cd kenan-projesi
-  npm install
-  npm run dev
-  ```
   Tarayıcıda: `http://localhost:3000`
 
 ---
